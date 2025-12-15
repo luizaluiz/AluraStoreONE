@@ -5,6 +5,7 @@ A decisão foi tomada com base em uma análise aprofundada de dados, utilizando 
 
 🚀 Objetivo
 Identificar a loja com o menor desempenho comparado às outras três unidades, através de dados, e recomendar a sua venda.
+
 📋 Métricas Analisadas
 Para tomar a decisão, as seguintes métricas foram analisadas para cada uma das quatro lojas:
 Faturamento Total: Receita bruta total de cada loja.
